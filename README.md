@@ -5,7 +5,7 @@
 - 📫 How to reach me email: bodunrindavidbond@gmail.com 
 - [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/bodunrindavid.svg?style=social&label=Follow%20%40bodunrindavid)](https://twitter.com/bodunrindavid)
 
-<a href="https://app.daily.dev/cyzero"><img src="https://api.daily.dev/devcards/4d0743b494de4e14870432fea303744f.png?r=52c" height="200" width="400" alt="David's Dev Card"/></a>
+<a href="https://app.daily.dev/cyzero"><img src="https://api.daily.dev/devcards/4d0743b494de4e14870432fea303744f.png?r=52c" height="400" width="400" alt="David's Dev Card"/></a>
 
 <!---
 davieoba/davieoba is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
