@@ -1,5 +1,5 @@
 - 👋 Hi, I’m David
-- 👀 I’m interested in Web Development, web 3 (js, react, node, golang) and machine learning(python).
+- 👀 I’m interested in Web Development, (JavaScript, TypeScript, React, Next.js, GraphQL, Express.js) and machine learning(python).
 - 🌱 I’m currently learning and building projects with node.js and React
 - 💞️ I’m looking to collaborate on projects and learn 
 - 📫 How to reach me email: bodunrindavidbond@gmail.com 
