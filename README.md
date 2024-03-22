@@ -1,6 +1,6 @@
 - 👋 Hi, I’m David
-- 👀 I’m interested in Web Development, (TypeScript, React, Next.js, GraphQL, Express.js) and ML
-- 🌱 I’m currently learning and building projects with Typescript and React
+- 👀 I’m interested in Fullstack Web Development, (TypeScript, React, Next.js, GraphQL, Express.js) and Distributed systems in Golang
+- 🌱 I’m currently learning and building projects with Typescript
 - 💞️ I’m looking to collaborate on projects 
 - 📫 How to reach me email: bodunrindavidbond@gmail.com 
 - [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/bodunrindavid.svg?style=social&label=Follow%20%40bodunrindavid)](https://twitter.com/bodunrindavid)
